@@ -1,0 +1,285 @@
+# Profile configuration for the GitHub README generator.
+# Edit this file to update personal information. Re-run the generator
+# (python scripts/generate_readme.py) to refresh README.md and SVGs.
+
+profile:
+  name: Rohith S
+  username: rohithsece
+  tagline: Electronics & Communication Engineering
+  pronouns: he/him
+  location: Chennai, India
+  education:
+    - degree: Bachelor of Engineering
+      field: Electronics and Communication Engineering
+      institution: Chennai Institute of Technology
+      batch: "2024-2028"
+      score: CGPA 8.02
+  about: >-
+    Electronics and Communication Engineering student building systems across
+    embedded electronics, IoT, AI and full-stack development. I work on
+    projects that connect physical hardware to intelligent software — from
+    sensors and PCB systems to edge AI, backend APIs and real-time dashboards.
+    Currently exploring biosensors, healthcare devices, intelligent embedded
+    systems and practical AI applications.
+
+stack:
+  languages:
+    - C
+    - C++
+    - Python
+    - Java
+    - JavaScript
+  frontend:
+    - React.js
+    - HTML
+    - CSS
+    - JavaScript
+    - Figma
+    - Adobe XD
+  backend:
+    - Node.js
+    - Express.js
+    - Flask
+    - Django
+    - REST API
+    - Microservices
+  databases:
+    - MongoDB
+    - MySQL
+    - PostgreSQL
+  ai_ml:
+    - TensorFlow
+    - TensorFlow Lite
+    - scikit-learn
+    - Edge AI
+    - Generative AI
+    - LLM Integration
+    - Predictive Analytics
+  other:
+    - Internet of Things
+    - Blockchain
+    - PCB Design
+    - MQTT
+    - UI/UX
+    - Prototyping
+    - Embedded C
+
+projects:
+  - name: GPS Tracker for Logistics
+    technologies:
+      - IoT
+      - GPS Module
+      - Python
+      - Flask
+      - REST API
+      - React.js
+      - MongoDB
+      - Full Stack
+    description: >-
+      Built a real-time logistics tracking system using GPS integration,
+      a Flask REST API for live location updates, and a React dashboard
+      for route visualization and delivery monitoring.
+    repo_candidates:
+      - gps-tracker-for-logistics
+      - gps-tracker-logistics
+      - logistics-tracker
+      - gps-logistics-tracker
+
+  - name: Mobile-Assisted Context-Aware Motorcycle Safety System
+    technologies:
+      - IoT
+      - Embedded C
+      - Node.js
+      - REST API
+      - React.js
+      - Android
+      - Java
+    description: >-
+      Developed an IoT-based motorcycle safety system with real-time sensor
+      communication, rider alerts, and incident monitoring through a web
+      dashboard.
+    repo_candidates:
+      - motorcycle-safety-system
+      - context-aware-motorcycle-safety
+      - motorcycle-safety
+      - iot-motorcycle-safety
+
+  - name: Self-Healing EV Ecosystem
+    technologies:
+      - React.js
+      - Flask
+      - Python
+      - MongoDB
+      - REST API
+      - Blockchain
+      - IoT
+      - Embedded C
+    description: >-
+      Designed an EV health-monitoring ecosystem combining IoT diagnostics,
+      a Flask backend, React visualization, MongoDB storage, and
+      tamper-resistant maintenance records using blockchain.
+    repo_candidates:
+      - self-healing-ev-ecosystem
+      - ev-ecosystem
+      - self-healing-ev
+      - ev-health-monitoring
+
+  - name: Smart Foot-Pressure Energy Harvester Tile
+    technologies:
+      - IoT
+      - Piezoelectric Sensors
+      - Embedded C
+      - Python
+      - Flask
+      - REST API
+      - React.js
+      - PCB Design
+      - Data Analytics
+    description: >-
+      Built an IoT-enabled piezoelectric energy-harvesting system with
+      real-time power monitoring, backend APIs and dashboard analytics.
+    repo_candidates:
+      - smart-foot-pressure-energy-harvester-tile
+      - energy-harvester-tile
+      - piezoelectric-energy-harvester
+      - foot-pressure-tile
+
+  - name: Solar Powered AI-Based Edge Device for Grid Protection
+    technologies:
+      - Python
+      - TensorFlow Lite
+      - Edge AI
+      - Embedded C
+      - IoT
+      - MQTT
+      - Flask
+      - REST API
+      - React.js
+      - MongoDB
+      - PCB Design
+    description: >-
+      Developed a solar-powered intelligent edge device for real-time
+      grid fault detection using TensorFlow Lite, embedded sensing, MQTT
+      communication and a full-stack monitoring dashboard.
+    repo_candidates:
+      - solar-powered-ai-edge-device-for-grid-protection
+      - solar-grid-protection
+      - grid-protection-edge-ai
+      - edge-grid-protection
+
+experience:
+  - company: Seyone Private Limited
+    role: R&D — Biosensors & Healthcare Device
+    period: Jul 2026 – Present
+    focus:
+      - biosensors
+      - healthcare device development
+      - embedded/product R&D
+  - company: Apphelix Technologies
+    role: AI / RAG Agent Intern
+    period: May 2026 – Aug 2026
+    focus:
+      - AI systems
+      - retrieval-augmented generation
+      - agents
+  - company: Jaibalaji Control Gears Private Limited
+    role: PCB Design Intern
+    period: Nov 2025
+    focus:
+      - PCB design
+      - electronics
+  - company: Mechimed Technologies
+    role: IoT Intern
+    period: May 2025 – Jun 2025
+    focus:
+      - internet of things
+      - embedded systems
+
+achievements:
+  publications:
+    - title: "IoT-Based Adaptive Low-Power Microgrid for Villages with Ring Main Theorem"
+      venue: IEEE — ICAISS Conference (IEEE Xplore)
+      url: https://ieeexplore.ieee.org/document/11525746
+  awards:
+    - title: Evathon Runner — IoT
+      event: Evathon
+      org: Sri Eshwar College of Engineering
+    - title: Prince iSOLVE Hack'26 Finalist — Embedded Systems
+      event: Prince iSOLVE Hack'26
+      org: Prince Shri Venkateshwara Padmavathy Engineering College
+    - title: Top 10 — Idea Hackathon (Sustainability)
+      event: Idea Hackathon
+      org: Chennai Institute of Technology
+    - title: Top 20 — Electrothon (Automation & Control)
+      event: Electrothon
+      org: Chennai Institute of Technology
+  coding:
+    - platform: LeetCode
+      stat: 150+ problems solved
+    - platform: SkillRack
+      stat: 400+ problems solved
+
+certifications:
+  - issuer: Cisco Networking Academy
+    items:
+      - Introduction to IoT
+      - Introduction to Modern AI
+      - Introduction to Data Science
+      - Introduction to Cybersecurity
+  - issuer: AICTE / EduSkills
+    items:
+      - Python Full Stack Developer Virtual Internship
+  - issuer: GUVI
+    items:
+      - ChatGPT for Everyone
+  - issuer: Alison
+    items:
+      - Introduction to C++ Programming Language
+
+social:
+  github:
+    label: github
+    url: https://github.com/rohithsece
+  linkedin:
+    label: linkedin
+    url: https://www.linkedin.com/in/rohith-s-1b91ab329
+  email:
+    label: email
+    url: mailto:rohiths.ece2024@citchennai.net
+
+ascii:
+  image: assets/profile.jpg
+  output: generated/ascii.svg
+  # Brightness ramp from darkest -> lightest. Tuned for photographic faces
+  # in a dark theme. Characters must be XML-safe.
+  ramp: "@%#*+=-:. "
+  # Target width of the ASCII portrait in characters. Height is computed
+  # from the cropped aspect ratio using a monospace aspect compensation.
+  width: 110
+  # Vertical scale compensation. A typical monospace cell is roughly twice
+  # as tall as it is wide; this factor compensates so the portrait doesn't
+  # look stretched.
+  vertical_compensation: 0.5
+  # Optional manual crop in pixels: (left, top, right, bottom). Set to null
+  # to use a centered auto crop. The supplied photo is 472x490, fairly
+  # tight to face+shoulders, so a slight crop is fine.
+  crop:
+    left: 30
+    top: 10
+    right: 30
+    bottom: 0
+  # Invert the brightness mapping (useful for dark theme with light text).
+  invert: false
+  # Contrast boost applied before mapping. 1.0 = no change.
+  contrast: 1.25
+
+stats:
+  output: generated/stats.svg
+  width: 900
+  height: 110
+
+contributions:
+  output: generated/contributions.svg
+  width: 900
+  height: 130
+  weeks: 52

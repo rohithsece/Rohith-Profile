@@ -1,0 +1,72 @@
+{
+  "user": {
+    "login": "rohithsece",
+    "name": null,
+    "bio": null,
+    "public_repos": 4,
+    "followers": 0,
+    "following": 1,
+    "avatar_url": "https://avatars.githubusercontent.com/u/182236944?v=4",
+    "html_url": "https://github.com/rohithsece",
+    "created_at": "2024-09-20T13:13:29Z"
+  },
+  "repos": [
+    {
+      "name": "SIH-website-VayuSense-",
+      "full_name": "rohithsece/SIH-website-VayuSense-",
+      "html_url": "https://github.com/rohithsece/SIH-website-VayuSense-",
+      "description": "",
+      "language": "JavaScript",
+      "stars": 0,
+      "forks": 0,
+      "topics": [],
+      "updated_at": "2026-09-03T05:35:28Z"
+    },
+    {
+      "name": "gemini",
+      "full_name": "rohithsece/gemini",
+      "html_url": "https://github.com/rohithsece/gemini",
+      "description": "",
+      "language": "Python",
+      "stars": 0,
+      "forks": 0,
+      "topics": [],
+      "updated_at": "2026-06-21T17:22:54Z"
+    },
+    {
+      "name": "CODSOFT",
+      "full_name": "rohithsece/CODSOFT",
+      "html_url": "https://github.com/rohithsece/CODSOFT",
+      "description": "",
+      "language": null,
+      "stars": 0,
+      "forks": 0,
+      "topics": [],
+      "updated_at": "2025-03-02T10:08:57Z"
+    },
+    {
+      "name": "Simple-calculator-using-python-",
+      "full_name": "rohithsece/Simple-calculator-using-python-",
+      "html_url": "https://github.com/rohithsece/Simple-calculator-using-python-",
+      "description": "",
+      "language": null,
+      "stars": 0,
+      "forks": 0,
+      "topics": [],
+      "updated_at": "2024-09-21T10:32:07Z"
+    }
+  ],
+  "total_stars": 0,
+  "top_languages": [
+    [
+      "JavaScript",
+      1
+    ],
+    [
+      "Python",
+      1
+    ]
+  ],
+  "contributions": [],
+  "error": null
+}

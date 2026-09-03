@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.pytest_cache/
+
+# OS / editors
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+.claude/
+
+# Local artifacts that should not be tracked.
+# The generated/ folder is committed (it powers the README). Only
+# exclude it if you want to fully regenerate from scratch in CI.
+# generated/
+
+# Local resume / image variants (the formal photo used for the ASCII
+# portrait is committed as assets/profile.jpg).
+Rohith_S_Resume_v3.docx
+rohith formal 1.jpg
+assets/profile.*
+
+!assets/profile.jpg
