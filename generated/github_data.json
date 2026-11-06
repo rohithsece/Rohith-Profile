@@ -3,7 +3,7 @@
     "login": "rohithsece",
     "name": null,
     "bio": null,
-    "public_repos": 5,
+    "public_repos": 6,
     "followers": 0,
     "following": 1,
     "avatar_url": "https://avatars.githubusercontent.com/u/182236944?v=4",
@@ -11,6 +11,17 @@
     "created_at": "2024-09-20T13:13:29Z"
   },
   "repos": [
+    {
+      "name": "Namma-AI-Hackathon-",
+      "full_name": "rohithsece/Namma-AI-Hackathon-",
+      "html_url": "https://github.com/rohithsece/Namma-AI-Hackathon-",
+      "description": "CROSSGUARD AI - Edge ML object detection and crossing safety monitoring pipeline",
+      "language": "Python",
+      "stars": 0,
+      "forks": 0,
+      "topics": [],
+      "updated_at": "2026-11-06T13:11:56Z"
+    },
     {
       "name": "Rohith-Profile",
       "full_name": "rohithsece/Rohith-Profile",
@@ -20,7 +31,7 @@
       "stars": 0,
       "forks": 0,
       "topics": [],
-      "updated_at": "2026-11-04T13:14:37Z"
+      "updated_at": "2026-11-05T13:27:56Z"
     },
     {
       "name": "SIH-website-VayuSense-",
@@ -71,7 +82,7 @@
   "top_languages": [
     [
       "Python",
-      2
+      3
     ],
     [
       "JavaScript",
@@ -440,7 +451,8 @@
     0,
     0,
     0,
-    0
+    0,
+    1
   ],
   "error": null
 }
